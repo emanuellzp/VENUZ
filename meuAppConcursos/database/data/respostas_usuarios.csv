@@ -1,0 +1,6 @@
+id,usuario_id,quiz_id,resposta_dada,acertou
+1,1,1,correu,1
+2,1,2,∨,0
+3,2,2,∧,1
+4,2,3,Teclado,1
+5,3,1,rápido,0
